@@ -25,7 +25,7 @@ const ProjectsSection = () => {
       color: 'border-cyber-green',
       image: 'https://cdn.discordapp.com/attachments/815264749510983751/1393190760383254538/f5f432bc-16c5-440c-80eb-7300005d5b2e.gif?ex=68724581&is=6870f401&hm=91655b81986abe2e923ba71a16cd75934f82b35e7bdd426432293e751314ea1f&',
       codeUrl: '#',
-      demoUrl: 'https://www.roblox.com/share?code=0c30455cf014614d800a003ab6e0aeb0&type=ExperienceDetails&stamp=1752237497488',
+      demoUrl: 'https://www.roblox.com/games/18232404433/Ragdoll-Troll-Obby-FREE-ADMIN',
     },
     {
       id: 3,
